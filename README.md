@@ -6,7 +6,7 @@ Me especializo en crear interfaces de usuario atractivas, responsivas y funciona
 
 ---
 
-### 💻 Mi Stack Tecnológico
+### 💻 Stack Tecnológico
 
 **Frontend Core**
 - HTML5
@@ -30,7 +30,7 @@ Me especializo en crear interfaces de usuario atractivas, responsivas y funciona
 
 Soy **Dibujante Proyectista Senior** con experiencia en el desarrollo, representación y coordinación de proyectos técnicos, trayectoria que me ha permitido fortalecer competencias clave como la organización, la atención al detalle, el análisis y la resolución de problemas.
 
-Actualmente me encuentro orientado al **desarrollo FrontEnd**, integrando mi experiencia técnica con nuevas habilidades en tecnologías web, diseño de interfaces y experiencia de usuario. Esta transición profesional me ha permitido ampliar mi perfil y enfocar mis conocimientos en la creación de soluciones digitales funcionales, claras y visualmente atractivas.
+Actualmente me encuentro orientado al **Desarrollo FrontEnd**, integrando mi experiencia técnica con nuevas habilidades en tecnologías web, diseño de interfaces y experiencia de usuario. Esta transición profesional me ha permitido ampliar mi perfil y enfocar mis conocimientos en la creación de soluciones digitales funcionales, claras y visualmente atractivas.
 
 Me caracterizo por asumir cada proyecto con compromiso, precisión y enfoque en la mejora continua. Mi objetivo es seguir creciendo en el área tecnológica, aportar valor a través de interfaces bien desarrolladas y participar en proyectos donde pueda combinar criterio técnico, diseño y funcionalidad.
 
