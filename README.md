@@ -1,5 +1,6 @@
 
-## ¡Hola! Soy Sergio Espinosa 👋 
+## Soy Sergio Espinosa 👋 
+### Dibujante Proyectista | Autocad • Revit • Plant 3D 
 ### Desarrollador Frontend | HTML • CSS • JavaScript • Vue.js
 
 Me especializo en crear interfaces de usuario atractivas, responsivas y funcionales. Mi enfoque principal es el ecosistema de **Vue** y el diseño moderno con **SASS** y **Bootstrap**.
