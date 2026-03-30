@@ -40,7 +40,7 @@ Me caracterizo por asumir cada proyecto con compromiso, precisión y enfoque en 
 ### 📫 ¿Cómo contactarme?
 - 💼 **LinkedIn:**(https://linkedin.com/in/sergio-espinosa-bb114948)
 - 📧 **Email:** [sergioespinosa.e@gmail.com]
-- 🚀 **Portafolio:** [Tu link de Netlify]
+- 🚀 **Portafolio:**(https://portafoliosergi.netlify.app/)
 
 
 
